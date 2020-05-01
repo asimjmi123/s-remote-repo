@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Staging Area
-=======
-Staging Area1
-Asim
->>>>>>> f6f1208487f626e5b6c39b3d4d9e8841a0197622
+
